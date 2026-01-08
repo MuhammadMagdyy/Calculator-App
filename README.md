@@ -31,5 +31,3 @@ This starts the development server at http://localhost:3000.
 - `npm run build` — production build
 - `npm test` — run tests
 
-## License
-MIT
