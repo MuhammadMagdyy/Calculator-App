@@ -3,6 +3,13 @@
 
 Simplest Working Calculator — a minimal React app that demonstrates basic arithmetic: add, subtract, multiply and divide.
 
+## Table of Contents
+
+- [About](#about)
+- [Features](#features)
+- [Run locally](#run-locally)
+- [Scripts](#scripts)
+
 ![Calculator screenshot](public/calc.png)
 
 ## About
