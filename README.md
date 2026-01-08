@@ -1,8 +1,12 @@
+
 # Calculator-App
 
 Simplest Working Calculator — a minimal React app that demonstrates basic arithmetic: add, subtract, multiply and divide.
 
-**Demo screenshot:** (see repo preview or run locally)
+![Calculator screenshot](public/screenshot.png)
+
+## About
+This is a demo project from a Meta React course.
 
 ## Features
 - Add, subtract, multiply, divide on a running total
@@ -26,10 +30,6 @@ This starts the development server at http://localhost:3000.
 - `npm start` — start dev server
 - `npm run build` — production build
 - `npm test` — run tests
-
-## Notes
-- I removed an invalid `coder` dependency from `package.json` to allow `npm install` to succeed.
-- If you want a screenshot in the README, add an image file (e.g. `screenshot.png`) to the repo and reference it here.
 
 ## License
 MIT
